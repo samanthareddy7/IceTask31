@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IceTask3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2015909800701f79f1d4f620807cc784aa215059")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b9db5aba68b997a72a0ec180e4ab2585dff599e")]
 [assembly: System.Reflection.AssemblyProductAttribute("IceTask3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IceTask3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
