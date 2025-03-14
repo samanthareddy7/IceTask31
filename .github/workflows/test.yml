@@ -23,12 +23,12 @@ jobs:
 
  # Restore any dependancies 
   - name: Dependencies
-  - uses: dotnet restore
+  - run: dotnet restore
 
  # Run Unit Tests
   - name: Unit Test
-  - uses: dotnet test
+  - run: dotnet test
 
  #Build the Project
   - name: Project Build 
-  - uses: dotnet build --configuration release
+  - run: dotnet build --configuration release
